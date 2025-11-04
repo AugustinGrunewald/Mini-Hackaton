@@ -1,0 +1,46 @@
+Je commence à partir de 310
+
+enlever avant derrière colonne
+
+Les colonnes qui peuvent être importantes:
+- 313-314 CNCRTYP2 (type du cancer)
+
+
+A garder mais sans plus:
+- 310 CNCRDIFF
+- 315 CSRVTRT3 (traitement cancer ou non)
+- 324 CSRVPAIN
+- 325 CSRVCTL2
+- 331 CIMEMLOS
+- 332 CDHOUSE
+
+
+
+Les colonnes qui sont peu pertinentes (à enlever):
+- 311-312 CNCRAGE
+- 316-317 CSRVDOC1
+- 318 CSRVSUM
+- 319 CSRVRTRN
+- 320 CSRVINST
+- 321 CSRVINSR
+- 322 CSRVDEIN
+- 323 CSRVCLIN
+- 326 PSATEST1
+- 327 PSATIME1
+- 328 PCPSARS2
+- 329 PSASUGST
+- 330 PCSTALK1
+- 333 CDASSIST
+- 334 CDHELP
+- 335 CDSOCIAL
+- 336 CDDISCUS
+- 337 CAREGIV1
+- 338-339 CRGVREL4
+- 340 CRGVLNG1
+- 341 CRGVHRS1
+- 342-343 CRGVPRB3
+- 344 CRGVALZD
+- 345 CRGVPER1
+- 346 CRGVHOU1
+- 347 CRGVEXPT
+- 348 ACEDEPRS
